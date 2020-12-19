@@ -2979,4 +2979,8 @@
     <string name="icon_pack_multi">Multi</string>
     <string name="icon_pack_filled">Filled</string>
     <string name="icon_pack_circular">Circular</string>
+    
+    <!-- Status Bar Lyric -->
+    <string name="status_bar_show_lyric_title">Status bar lyric</string>
+    <string name="status_bar_show_lyric_summary">Show lyric in status bar</string>
 </resources>
