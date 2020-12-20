@@ -83,6 +83,14 @@
             android:icon="@drawable/ic_gaming"
             android:summary="@string/gaming_mode_summary"
             android:fragment="com.android.settings.rr.fragments.GamingMode" />
+		
+       <!-- Gaming mode -->
+       <Preference
+            android:key="gaming_category"
+            android:title="@string/gaming_title" 
+            android:fragment="org.exthmui.settings.fragments.GamingModeSettings"
+            android:icon="@drawable/ic_settings_gaming"
+            android:summary="@string/gaming_summary" />
 
        <!--Preference
             android:key="lockscreen_visualizer"
